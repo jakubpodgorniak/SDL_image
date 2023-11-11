@@ -3,8 +3,8 @@
     .version = "2.6.3",
     .dependencies = .{
         .SDL = .{
-            .url = "https://github.com/zigbuild/SDL/archive/aef95740310154ebd491bc35e0fdcd118b16ade0.tar.gz",
-            .hash = "12202e4412ade6d1b8c45a606fc83cfa242a0ac47a70578aef9d5fa3b0bb33ab5618"
-        }
-    }
+            .url = "https://github.com/andrewrk/SDL/archive/c90c2d0a3b155ef8b4728ba9db80eae1a22d771e.tar.gz",
+            .hash = "12204b74bb1679d7d94a6da918a58cf0c5291c260dffc595a5f151a001f86763e0bf",
+        },
+    },
 }
