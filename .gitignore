@@ -28,5 +28,5 @@ Release
 *.opensdf
 
 # zig spam
-zig-cache
+.zig-cache
 zig-out
